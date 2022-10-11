@@ -1,4 +1,4 @@
-# consumindo_api_e_erenciando_estado
+# consumindo_api_e_gerenciando_estado
 
 A new Flutter project.
 
